@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joneconsulting/heroku-app.git"
+    "url": "git+https://github.com/leeheesuk/heroku-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joneconsulting/heroku-app/issues"
+    "url": "https://github.com/leeheesuk/heroku-app/issues"
   },
-  "homepage": "https://github.com/joneconsulting/heroku-app#readme",
+  "homepage": "https://github.com/leeheesuk/heroku-app#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
